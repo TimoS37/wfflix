@@ -25,7 +25,7 @@ graph TD
         D --> I[Course management]
         E --> I
         E-->3[Add Course]--> 4[Add Video]
-        F --> M[Course] --> N[Video] -->I2((Comments & questions))
+        F --> M[Course] --> N[Video] -->I2((Questions & Answers))
         F--> 6[Buy Course]
         E-->I2
         E --> M
